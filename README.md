@@ -36,8 +36,3 @@ Yet Bota bridges the gap between traditional landmarks and modern digital naviga
 | [Lucide React](https://lucide.dev) | Latest | Icons |
 
 ---
-
-<div align="center">
-  <strong>Yet Bota &copy; 2024 — Empowering Communities</strong><br/>
-  Alignment: Ethiopia Digital 2030
-</div>
